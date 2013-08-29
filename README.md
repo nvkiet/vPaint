@@ -1,8 +1,8 @@
 vPaint - Collaborative Drawing with Friends.
 ======
-Author: Nguyen van Kiet , iOS developer
-Email: nguyenvankiet.teaching@gmail.com
-Facebook: https://www.facebook.com/nvkiet
+- Author: Nguyen van Kiet , iOS developer
+- Email: nguyenvankiet.teaching@gmail.com
+- Facebook: https://www.facebook.com/nvkiet
 
 Description:
 
