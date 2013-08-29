@@ -15,7 +15,6 @@ Features:
 
 - Use finger to draw with custom color, width, opacity.
 - Unlimited undo/redo. 
-- Erase painting.
 - Share on Facebook, Email or save to photos album.
 
 See more on https://www.facebook.com/vpaintapp
