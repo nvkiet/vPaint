@@ -2,6 +2,7 @@ vPaint - Collaborative Drawing with Friends.
 ======
 Author: Nguyen van Kiet , iOS developer
 Email: nguyenvankiet.teaching@gmail.com
+Facebook: https://www.facebook.com/nvkiet
 
 Description:
 
@@ -17,3 +18,4 @@ Features:
 - Erase painting.
 - Share on Facebook, Email or save to photos album.
 
+See more on https://www.facebook.com/vpaintapp
