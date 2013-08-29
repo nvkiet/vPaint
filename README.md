@@ -1,6 +1,6 @@
 vPaint - Collaborative Drawing with Friends.
 ======
-- Author: Nguyen van Kiet , iOS developer
+- Author: NGUYEN VAN KIET , iOS developer
 - Email: nguyenvankiet.teaching@gmail.com
 - Facebook: https://www.facebook.com/nvkiet
 
@@ -13,7 +13,7 @@ Version 0.0.1
 
 Features:
 
-- Use fingher to draw with custom color, width, opacity.
+- Use finger to draw with custom color, width, opacity.
 - Unlimited undo/redo. 
 - Erase painting.
 - Share on Facebook, Email or save to photos album.
