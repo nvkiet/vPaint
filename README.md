@@ -1,5 +1,7 @@
 vPaint - Collaborative Drawing with Friends.
-======
+
+###Syntax:
+
 - Author: KIET NGUYEN , iOS developer
 - Email: nguyenvankiet.teaching@gmail.com
 - Twitter: @kietnv(https://twitter.com/kietnv)
