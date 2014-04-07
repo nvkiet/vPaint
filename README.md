@@ -2,7 +2,7 @@ vPaint - Collaborative Drawing with Friends.
 ======
 - Author: KIET NGUYEN , iOS developer
 - Email: nguyenvankiet.teaching@gmail.com
-- Twitter: @kietnv
+- Twitter: @kietnv(https://twitter.com/kietnv)
 
 Description:
 
