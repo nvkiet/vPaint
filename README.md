@@ -3,8 +3,8 @@ vPaint - Collaborative Drawing with Friends.
 
 Description:
 
-       vPaint is a drawing app on iOS. vPaint has features like Whiteboard app of GreenGar Inc. I build vPaint
-    because I want to study OpengGL ES. 
+   vPaint is a drawing app on iOS. vPaint has features like Whiteboard app of GreenGar Inc. I build vPaint
+because I want to study OpengGL ES. 
 
 Version 1.0
 
